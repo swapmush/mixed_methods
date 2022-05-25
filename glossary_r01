@@ -1,0 +1,33 @@
+
+
+Systems Thinking Mediator: Multilevel Psychometric Analytic Plan 
+-- Step #1 : STS means, standard deviations, and correlations will be calculated for individuals and teams
+-- Step #2: Intraclass correlation coefficients (ICCs) will be calculated.
+            ICC values represent team ‘traits,’ estimated as the proportion of total measure variance attributed
+            to variance between teams
+            -- What is ICC? 
+            
+* Multilevel Confrimatory Factor Analysis[MCFA] *
+-- Step #1: Psychometrics and factor structure for the STS was determined in prior research on measures used [see table 11] 
+-- Step #2: Use STS team-mean. 
+-- Step #3: MCFA will be used due to nested measurement (teams in clinics), 
+and potential for differential measure performance across arms in Aim 2 analyses due to PSD/AF assignment. 
+-- Step #4: MCFA with R package ‘lavaan,’163 will determine whether the same covariance (factor) structure holds for clinics in each arm (PSD/AF) via closeness of fit (CFI), 
+root mean squared error (RMSEA) and information criteria (BIC/AIC
+-- Step #5:The single-factor structure will be specified consistent with prior STS psychometric validation and results reported. 
+MCFA ensures valid reliability and validity estimates of theorized constructs, and ensures valid tests of Aim 2 mediation hypotheses. 
+
+** Criterion/Predictive Validity **
+-- step #1: We will conduct a cross-arm manipulation check of PSD/AF assignment on systems thinking
+-- step #2: 
+-- Step #3:  Measures will be standardized and baseline assignment will be assessed for an increase in systems thinking among PSD teams. 
+We expect an effect size consistent with STS validation research showing a different between groups based on receipt of systems thinking training (d = .78).
+
+**Reliability. Pre/Post Measurement Invariance**
+-- Step #1: generalizability coefficients (GC)164 in R package ‘lavaan,’163 which extend tests of internal consistency to designs with multiple sources of error
+-- Step #2: A standard set of increasingly constrained SEM Models will assess factor loadings, intercepts and residual variance for equivalence165 and will detect the magnitude of measure non-invariance to obtain correct mediation inferences. 
+Variance- covariance matrices of within- and between-arm latent factors will be plotted.  
+-- Step #3: 
+
+
+**Qualitative and Observational Measures**
